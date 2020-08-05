@@ -1,6 +1,6 @@
 ### Hi there, I'm Nick 👋
 
-<img src="https://e7.pngegg.com/pngimages/779/338/png-clipart-ruby-on-rails-the-ruby-programming-language-computer-programming-ruby-angle-computer-programming.png" width="240px" align="right">
+<img src="https://purepng.com/public/uploads/medium/purepng.com-rubyrubyblood-redgemstonemineral-corundumgemsapphires-1701528980196e1akb.png" width="240px" align="right">
 
 ## I'm a Developer!
 - I’m currently working on commercial project related to renewable energy source!
