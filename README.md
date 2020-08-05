@@ -5,9 +5,7 @@
 - I’m currently learning Pascal(in progress) -> Assembler -> C -> C++
 - Goals: Contribute more to Open Source projects
 
-<img src="https://i.imgur.com/kdKhgx6.gif# thumbnail" width="240px" style="float: right !important">
-<img src="https://i.imgur.com/kdKhgx6.gif#thumbnail" width="240px" style="float: right !important">
-![Kitten](https://i.imgur.com/kdKhgx6.gif# thumbnail bordered)
+<img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="right">
 ### Connect with me:
 
 [<img align="left" alt="Mikalai Yankouski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mikolay-yankovsky/)
@@ -32,12 +30,3 @@
 
 <br />
 <br />
-
-img[src~="bordered"] {
-   border: 1px solid black;
-}
-img[src~="thumbnail"] {
-   width:150px;
-   height:100px;
-   float: rightl;
-}
