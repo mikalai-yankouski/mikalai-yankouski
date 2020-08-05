@@ -1,7 +1,7 @@
 ### Hi there, I'm Nick 👋
 
 ## I'm a Developer!
-<img src="https://i.imgur.com/kdKhgx6.gif" width="240px" style="float: right">
+<img src="https://i.imgur.com/kdKhgx6.gif" width="240px" style="float: right !important">
 - I’m currently working on commercial project related to renewable energy source!
 - I’m currently learning Pascal(in progress) -> Assembler -> C -> C++
 - Goals: Contribute more to Open Source projects
