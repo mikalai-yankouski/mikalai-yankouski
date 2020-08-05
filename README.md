@@ -5,7 +5,8 @@
 - I’m currently learning Pascal(in progress) -> Assembler -> C -> C++
 - Goals: Contribute more to Open Source projects
 
-<img src="https://i.imgur.com/kdKhgx6.gif" width="240px" style="float: right !important">
+<img src="https://i.imgur.com/kdKhgx6.gif# thumbnail" width="240px" style="float: right !important">
+<img src="https://i.imgur.com/kdKhgx6.gif#thumbnail" width="240px" style="float: right !important">
 ![Kitten](https://i.imgur.com/kdKhgx6.gif# thumbnail bordered)
 ### Connect with me:
 
