@@ -4,7 +4,6 @@
 
 ## I'm a Developer!
 - I’m currently working on commercial project related to renewable energy source!
-- I’m currently learning Pascal(in progress) -> Assembler -> C -> C++
 - Goals: Contribute more to Open Source projects
 
 ### Connect with me:
